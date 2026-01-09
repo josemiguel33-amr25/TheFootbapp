@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Footbapp</string>
+    <string name="premier">Premier League</string>
+    <string name="liga_espanola">Liga Santander</string>
+    <string name="biblioteca">Futboltéca</string>
+    <string name="estadio">Estadio Aleatorio</string>
+    <string name="partidos">Partidos</string>
+    <string name="mas_info">Info</string>
+    <string name="juego_1">Adivina El Jugador</string>
+    <string name="adelante">Avanzar</string>
+    <string name="boton_premier">Biblioteca Premier</string>
+    <string name="atras">Atrás</string>
+</resources>
